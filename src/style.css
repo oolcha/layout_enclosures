@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
+.box-top {
+  width: 350px;
+  margin-bottom: 40px;
+  background-color: #308dc0;
+}
+
+.box-border {
+  background-color: #ffa500;
+}
+
+.box-text {
+  background-color: #ddd;
+}

@@ -1,7 +1,7 @@
 # Enclosures
 Replace `<your_account>` with your Github username and copy the links to Pull Request description:
-- [DEMO LINK](https://<your_account>.github.io/layout_enclosures/)
-- [TEST REPORT LINK](https://<your_account>.github.io/layout_enclosures/report/html_report/)
+- [DEMO LINK](https://oolcha.github.io/layout_enclosures/)
+- [TEST REPORT LINK](https://oolcha.github.io/layout_enclosures/report/html_report/)
 
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
 ___
@@ -14,7 +14,7 @@ Use this extension for Chrome to find out the right color [ColorZilla](https://c
 * The width of each box is 350px (including all borders).
 * You can find the exact values of colors by using an image editor program.
 * The width of the redish border must be 1 pixel and color- #e95d49.
-* The width of the bluish and yellowish borders must be 10 pixels (they, however, 
+* The width of the bluish and yellowish borders must be 10 pixels (they, however,
 do not have to literally be borders of any HTML container).
 * The space around the text must also be 10 pixels.
 * The distance between the boxes and the edges of the page must be 20 pixels.
@@ -22,14 +22,14 @@ do not have to literally be borders of any HTML container).
 
 The text content in three languages follows:
 
-> In programming languages, a closure is a technique for implementing lexically 
-scoped name binding in a language with first-class functions. Operationally, a 
+> In programming languages, a closure is a technique for implementing lexically
+scoped name binding in a language with first-class functions. Operationally, a
 closure is a record storing a function together with an environment.
 
-> У програмуванні замиканням називають підпрограму, що виконується в середовищі, 
-яке містить одну або більше зв’язаних змінних. Підпрограма має доступ до цих 
+> У програмуванні замиканням називають підпрограму, що виконується в середовищі,
+яке містить одну або більше зв’язаних змінних. Підпрограма має доступ до цих
 змінних під час виконання.
 
-> Замыкание в программировании — функция первого класса, в теле которой 
-присутствуют ссылки на переменные, объявленные вне тела этой функции в 
-окружающем коде и не являющиеся её параметрами. 
+> Замыкание в программировании — функция первого класса, в теле которой
+присутствуют ссылки на переменные, объявленные вне тела этой функции в
+окружающем коде и не являющиеся её параметрами.
