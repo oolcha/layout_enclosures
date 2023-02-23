@@ -7,23 +7,21 @@ body {
   margin: 20px;
 }
 
-.box-text {
-  width: 304px;
+.box {
   padding: 10px;
-  background-color: #ddd;
-  border: 1px solid #e95d49;
-}
-
-.box-border {
-  padding: 10px;
-  background-color: #f3a83b;
   border: 1px solid #e95d49;
 }
 
 .box-top {
   width: 350px;
-  padding: 10px;
-  background-color: #498cbb;
-  border: 1px solid #e95d49;
   margin-bottom: 40px;
+  background-color: #308dc0;
+}
+
+.box-border {
+  background-color: #ffa500;
+}
+
+.box-text {
+  background-color: #ddd;
 }
